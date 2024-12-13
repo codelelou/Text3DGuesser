@@ -2,6 +2,8 @@
 3Dの文字を横から見て、それが何かを当てるゲームのテンプレートです。  
 出題リストを書き換えることで、ゲームをカスタマイズできます。  
 
+* [Text3DGuesser DEMOゲーム](https://github.com/codelelou/Text3DGuesser/releases/download/v.1.0.0/Text3DGuesserDemo.zip)
+
 ![タイトル画面](https://github.com/user-attachments/assets/071ceec4-fb3c-41f9-a617-27a58a25b567)
 ![出題画面](https://github.com/user-attachments/assets/122a40a9-4199-4d2b-9310-8a7e65a1ebb6)
 ![回答画面](https://github.com/user-attachments/assets/60db9097-c452-455b-a3ea-850fbbae1b67)
